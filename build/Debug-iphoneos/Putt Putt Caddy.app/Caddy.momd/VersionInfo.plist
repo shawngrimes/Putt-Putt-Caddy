@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSManagedObjectModel_CurrentVersionName</key>
+	<string>Caddy</string>
+	<key>NSManagedObjectModel_VersionHashes</key>
+	<dict>
+		<key>Caddy</key>
+		<dict>
+			<key>courses</key>
+			<data>
+			PZ8Yb3NgwlgVIH2RCWOdHNTgh0KUXe/NvCP2Az3litM=
+			</data>
+			<key>games</key>
+			<data>
+			JIyP8JHtHBtOoa9PTurI6CRG8bRPkmQw9KMPjOqHoSY=
+			</data>
+			<key>players</key>
+			<data>
+			zZx2d9hcGKpglaKUK/IezrN1hTRm4F5yrox0NfBy0rg=
+			</data>
+			<key>scores</key>
+			<data>
+			HtvsUMguMnbrESl5Lp26ZsDbhC7R1oT7tVBut8P70eA=
+			</data>
+		</dict>
+	</dict>
+</dict>
+</plist>
